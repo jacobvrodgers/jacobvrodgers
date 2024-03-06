@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jacobvrodgers
+- 👀 I’m interested in photography, programming, video games
+- 🌱 I’m currently learning netcode for multiplayer games in Unity 
+- 💞️ I’m looking to collaborate on game developement
+- 📫 How to reach me - jacobvrodgers@gmail.com
